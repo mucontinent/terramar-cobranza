@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "TerramarCobranza",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}

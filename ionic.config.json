@@ -1,0 +1,8 @@
+{
+  "name": "TerramarCobranza",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "8fe5adef"
+}
